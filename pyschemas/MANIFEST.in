@@ -1,0 +1,2 @@
+include schemas/event.schema.json
+include schemas/py.typed
